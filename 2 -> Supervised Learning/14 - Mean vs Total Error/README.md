@@ -1,4 +1,4 @@
-# Mean vs Total Squared (or Absolute) Error
+# Mean vs Total Squared (or Absolute) Error ⁉️
 
 A potential confusion is the following: How do we know if we should use the mean or the total squared (or absolute) error?
 
