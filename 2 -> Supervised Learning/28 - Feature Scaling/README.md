@@ -1,4 +1,4 @@
-# Feature Scaling
+# Feature Scaling 🤟
 
 What is feature scaling? Feature scaling is a way of transforming your data into a common range of values. There are two common scalings:
 
