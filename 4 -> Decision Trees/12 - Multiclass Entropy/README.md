@@ -1,4 +1,4 @@
-# Multiclass Entropy
+# Multiclass Entropy  🧐
 
 ## Multi-class Entropy
 
