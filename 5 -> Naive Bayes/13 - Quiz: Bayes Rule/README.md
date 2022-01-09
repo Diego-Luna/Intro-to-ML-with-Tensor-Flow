@@ -1,4 +1,4 @@
-# Quiz: Bayes Rule
+# 🧪 Quiz: Bayes Rule
 
 Suppose you have a bag with three standard 6-sided dice with face values [1,2,3,4,5,6] and two non-standard 6-sided dice with face values [2,3,3,4,4,5]. Someone draws a die from the bag, rolls it, and announces it was a 3. What is the probability that the die that was rolled was a standard die?
 
