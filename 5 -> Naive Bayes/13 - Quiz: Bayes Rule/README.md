@@ -4,7 +4,7 @@ Suppose you have a bag with three standard 6-sided dice with face values [1,2,3,
 
 Input your answer as a fraction or as a decimal with at least three digits of precision.
 
-## Process
+## 💻 Process
 
 1. `P (A | B) = P (A ^ B) / P (B). Also P (B | A) = P (B ^ A) / P (A).`
 
