@@ -1,4 +1,4 @@
-# Quiz for Maximizing Information Gain
+# ⁉️ Quiz for Maximizing Information Gain
 
 For the following quiz, consider the data found in this file, consisting of twenty-four made-up insects measured on their length and color.
 
