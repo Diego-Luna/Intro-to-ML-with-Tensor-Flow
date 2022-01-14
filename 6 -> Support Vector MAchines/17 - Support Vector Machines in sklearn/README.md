@@ -1,4 +1,4 @@
-# Support Vector Machines in sklearn
+# Support Vector Machines in sklearn 💻
 
 n this section, you'll use support vector machines to fit a given sample dataset.
 
