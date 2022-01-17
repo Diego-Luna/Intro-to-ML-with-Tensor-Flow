@@ -1,4 +1,4 @@
-# AdaBoost in sklearn 💻
+# 💻 AdaBoost in sklearn 💻
 
 Building an AdaBoost model in sklearn is no different than building any other model. You can use scikit-learn's [AdaBoostClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html) class. This class provides the functions to define and fit the model to your data.
 
