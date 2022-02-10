@@ -6,6 +6,19 @@ Before you do that, let's go over the tools required to build this model.
 
 For your support vector machine model, you'll be using scikit-learn's [SVC](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html) class. This class provides the functions to define and fit the model to your data.
 
+```python
+>>> from sklearn.svm import SVC
+>>> model = SVC()
+>>> model.fit(x_values, y_values)
+```
+
+In the example above, the `model` variable is a support vector machine model that has been fitted to the data `x_values` and `y_values`. Fitting the model means finding the best boundary that fits the training data. Let's make two predictions using the model's `predict()` function.
+
+```python
+>>> print(model.predict([ [0.2, 0.8], [0.5, 0.4] ]))
+[[ 0., 1.]]
+```
+
 ## Hyperparameters
 
 When we define the model, we can specify the hyperparameters. As we've seen in this section, the most common ones are
@@ -16,7 +29,7 @@ When we define the model, we can specify the hyperparameters. As we've seen in t
 - `gamma `: If the kernel is rbf, this is the gamma parameter.
   For example, here we define a model with a polynomial kernel of degree 4, and a C parameter of 0.1.
 
-```
+```python
 >>> model = SVC(kernel='poly', degree=4, C=0.1)
 ```
 
