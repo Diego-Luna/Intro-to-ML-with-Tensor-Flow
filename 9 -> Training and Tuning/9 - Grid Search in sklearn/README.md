@@ -5,8 +5,6 @@ Grid Search in sklearn is very simple. We'll illustrate it with an example. Let'
 - kernel: `poly` or `rbf`.
 - C: 0.1, 1, or 10.
 
-(**Note**: These parameters can be used as a black box now, but we'll see them in detail in the **Supervised Learning Section** of the nanodegree.)
-
 The steps are the following:
 
 ## 1. Import GridSearchCV
